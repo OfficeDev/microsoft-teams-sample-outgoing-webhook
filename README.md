@@ -1,13 +1,15 @@
 ---
 topic: sample
 products:
-- Microsoft Teams
-- Office 365
+- office-teams
+- office-365
 languages:
-- C#
+- csharp
 extensions:
   contentType: samples
-  createdDate: 3/13/2017 12:42:15 PM
+  technologies:
+  - Microsoft Bot Framework
+  createdDate: 12/04/2017 2:40:56 PM
 ---
 # Contributing
 
