@@ -7,9 +7,7 @@ languages:
 - csharp
 extensions:
   contentType: samples
-  technologies:
-  - Microsoft Bot Framework
-  createdDate: 12/04/2017 2:40:56 PM
+  createdDate: 3/13/2017 12:42:15 PM
 ---
 # Contributing
 
